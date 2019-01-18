@@ -1,2 +1,6 @@
 # Hello-world
-Just a repository
+
+
+Hi, bros.
+This is my first repository.
+By the way, I like fishes.
